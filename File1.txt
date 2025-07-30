@@ -6,3 +6,5 @@ add new line fore test
 therd
 try check out tuturial for comfilict change 
 try make comfilict in master branche
+
+editet from github for test
